@@ -5,5 +5,5 @@
     <classes>
       <class name="com.test.CalculatorTest"/>
     </classes>
-  </test> <!-- Test -->
+  </test> <!-- Test -->     
 </suite> <!-- Suite -->
